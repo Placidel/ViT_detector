@@ -1,0 +1,10 @@
+{
+  "dataset": "ROI_MASK",
+  "img_size": 384,
+  "dataset_paths": {
+    "roi_train_im": "data/roi_train_im/",
+    "roi_train_masks": "data/roi_train_masks/",
+    "roi_val_im": "data/roi_val_im/",
+    "roi_val_masks": "data/roi_val_masks/"
+  }
+}
