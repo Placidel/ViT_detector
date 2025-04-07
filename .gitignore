@@ -177,3 +177,4 @@ data/
 mlruns/
 *.zip
 runs/
+checkpoints/
